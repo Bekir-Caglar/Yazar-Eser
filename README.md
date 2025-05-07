@@ -5,45 +5,42 @@
 </p>
 
 <p align="center">
-  <a href="https://play.google.com/store/apps/details?id=com.bekirdev.yksmaster">
-    <img alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" width="200"/>
+  <a href="https://play.google.com/store/apps/details?id=com.bekircaglar.yksmaster&pcampaignid=web_share">
+    <img alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" width="400"/>
   </a>
 </p>
 
 ## 📱 Screenshots
 
 <p align="center">
-  <img src="Screenshot_20250505_102534_Author Work-2.jpg" width="200" />
-  <img src="Screenshot_20250505_110353_Author Work.jpg" width="200" />
-  <img src="Screenshot_20250505_110407_Author Work.jpg" width="200" />
-  <img src="Screenshot_20250505_110451_Author Work.jpg" width="200" />
-  <img src="Screenshot_20250505_110503_Author Work.jpg" width="200" />
-  <img src"Screenshot_20250505_111305_Author Work.jpg" width="200" />
-
+  <img src="1.jpg" width="240" alt="Home Screen" style="margin: 10px" />
+  <img src="2.jpg" width="240" alt="Practice Tests" style="margin: 10px" />
+  <img src="3.jpg" width="240" alt="Question Interface" style="margin: 10px" />
 </p>
 
+<p align="center">
+  <img src="4.jpg" width="240" alt="Performance Analytics" style="margin: 10px" />
+  <img src="5.jpg" width="240" alt="Study Reports" style="margin: 10px" />
+  <img src="6.jpg" width="240" alt="Settings Screen" style="margin: 10px" />
+</p>
 ## ✨ Features
 
 - **📝 YKS Exam Practice**: Comprehensive practice questions for TYT and AYT sections
-- **📊 Performance Analytics**: Track your progress and identify weak areas
-- **⏱️ Timer Mode**: Practice under exam conditions
 - **📚 Subject-Based Tests**: Focus on specific subjects that need improvement
-- **🧠 Solution Explanations**: Detailed explanations for each question
+- **📖 Literary Work Summaries**: Quick access to key summaries of required literary works
+- **🎯 Daily Quiz**: Regular daily challenges to maintain consistent study habits
 - **🌙 Dark Mode Support**: Easy on the eyes during night-time study sessions
-- **📈 Performance Reports**: Visualize your improvement over time
-- **🔔 Study Reminders**: Set reminders to maintain your study schedule
+
 
 ## 🔧 Technologies Used
 
 - **💯 100% Kotlin**: Modern, concise code with Kotlin
 - **🏗️ MVVM Architecture**: Clean separation of UI from business logic
 - **🔄 Coroutines**: Asynchronous programming for smooth user experience
-- **💾 Room Database**: Efficient local storage for questions and user progress
-- **🔍 LiveData & ViewModel**: Lifecycle-aware data handling
+- **🌊 Flow**: Reactive streams for managing UI state and data flow
+- **💾 Firebase Realtime Database**: Cloud database for storing questions and user progress
+- **🔐 Firebase Authentication**: Secure user authentication and account management
 - **🧩 Dagger Hilt**: Dependency injection
-- **🌐 Retrofit**: Network operations for remote data
-- **🖼️ Glide/Coil**: Image loading and caching
-- **📊 MPAndroidChart**: For visual representation of user performance
 
 ## 📋 Requirements
 
@@ -52,9 +49,9 @@
 
 ## 🔗 Links
 
-- [Google Play Store](https://play.google.com/store/apps/details?id=com.bekirdev.yksmaster)
-- [Privacy Policy](https://example.com/privacy-policy)
-- [Contact Support](mailto:contact@bekirdev.com)
+- [Google Play Store](https://play.google.com/store/apps/details?id=com.bekircaglar.yksmaster&pcampaignid=web_share)
+- [Privacy Policy](https://bekir-caglar.github.io/yks_master_web/yks_master_web/legal/privacy-policy.html)
+- [Contact Support](mailto:contact@bekircofficial@gmail.com)
 
 ## 👨‍💻 About Developer
 
