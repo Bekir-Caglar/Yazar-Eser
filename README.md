@@ -1,4 +1,4 @@
-# YksMaster - YKS (University Entrance Exam) Preparation App
+# Yazar Eser Testleri - YKS (University Entrance Exam) Preparation App
 
 <p align="center">
   <img src="banner-3.png" alt="YksMaster Logo" width="1024"/>
@@ -23,6 +23,7 @@
   <img src="5.png" width="240" alt="Study Reports" style="margin: 10px" />
   <img src="6.png" width="240" alt="Settings Screen" style="margin: 10px" />
 </p>
+
 ## ✨ Features
 
 - **📝 YKS Exam Practice**: Comprehensive practice questions for TYT and AYT sections
