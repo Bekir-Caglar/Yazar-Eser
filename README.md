@@ -13,15 +13,15 @@
 ## 📱 Screenshots
 
 <p align="center">
-  <img src="1.jpg" width="240" alt="Home Screen" style="margin: 10px" />
-  <img src="2.jpg" width="240" alt="Practice Tests" style="margin: 10px" />
-  <img src="3.jpg" width="240" alt="Question Interface" style="margin: 10px" />
+  <img src="1.png" width="240" alt="Home Screen" style="margin: 10px" />
+  <img src="2.png" width="240" alt="Practice Tests" style="margin: 10px" />
+  <img src="3.png" width="240" alt="Question Interface" style="margin: 10px" />
 </p>
 
 <p align="center">
-  <img src="4.jpg" width="240" alt="Performance Analytics" style="margin: 10px" />
-  <img src="5.jpg" width="240" alt="Study Reports" style="margin: 10px" />
-  <img src="6.jpg" width="240" alt="Settings Screen" style="margin: 10px" />
+  <img src="4.png" width="240" alt="Performance Analytics" style="margin: 10px" />
+  <img src="5.png" width="240" alt="Study Reports" style="margin: 10px" />
+  <img src="6.png" width="240" alt="Settings Screen" style="margin: 10px" />
 </p>
 ## ✨ Features
 
