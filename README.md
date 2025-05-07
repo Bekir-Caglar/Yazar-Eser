@@ -1,7 +1,7 @@
 # YksMaster - YKS (University Entrance Exam) Preparation App
 
 <p align="center">
-  <img src="app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" alt="YksMaster Logo" width="150"/>
+  <img src="banner-3.png" alt="YksMaster Logo" width="150"/>
 </p>
 
 <p align="center">
@@ -13,7 +13,7 @@
 ## 📱 Screenshots
 
 <p align="center">
-  <img src="screenshots/screenshot1.jpg" width="200" />
+  <img src="Screenshot_20250505_102534_Author Work-2.jpg" width="200" />
   <img src="screenshots/screenshot2.jpg" width="200" />
   <img src="screenshots/screenshot3.jpg" width="200" />
   <img src="screenshots/screenshot4.jpg" width="200" />
